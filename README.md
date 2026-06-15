@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="C:\Users\dell\Desktop\banner.png" alt="GitHub Banner" width="100%">
+</p>
 # Hi 👋, I'm Danish
 
 ### 🚀 Aspiring Software Engineer | Java Developer
