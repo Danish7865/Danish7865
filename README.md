@@ -47,3 +47,10 @@
 
 ---
 ⭐ Thanks for visiting my profile!
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Danish7865/Danish7865/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
