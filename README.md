@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,mysql,git,github,vscode" />
+<img src="https://github-readme-stats.vercel.app/api?username=Danish7865&show_icons=true&theme=tokyonight" />
 </p>
 
 ## 🌐 Coding Profiles
