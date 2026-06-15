@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\dell\Desktop\banner.png" alt="GitHub Banner" width="100%">
+  <img src="banner.png" alt="GitHub Banner" width="100%">
 </p>
 # Hi 👋, I'm Danish
 
