@@ -2,23 +2,39 @@
   <img src="banner.png" alt="GitHub Banner" width="100%">
 </p>
 # Hi 👋, I'm Danish
-
-### 🚀 Aspiring Software Engineer | Java Developer
-
 ## 👨‍💻 About Me
-- 🌱 Currently learning Java, DSA, HTML, CSS, JavaScript, Bootstrap & MySQL
-- 🎯 Goal: Become a Software Engineer
-- 💡 Interested in Java Development, Web Development & Cybersecurity
-- 📍 India
 
+- 💻 Aspiring Software Engineer from India
+- ☕ Passionate about Java Development
+- 📚 Currently mastering DSA & Advanced Java
+- 🌐 Learning Full Stack Development
+- 🔐 Exploring Cybersecurity
+- 🎯 Goal: Crack a Software Engineering role at a top tech company
+  
 ## 🛠️ Tech Stack
-- Java
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- MySQL
-- Git & GitHub
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,mysql,git,github,vscode" />
+</p>
+
+## 🌐 Coding Profiles
+
+- GitHub: https://github.com/Danish7865
+
+![](https://komarev.com/ghpvc/?username=Danish7865&color=blue)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Danish7865&show_icons=true&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=Danish7865&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danish7865&layout=compact&theme=tokyonight)
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Java+Developer;DSA+Enthusiast;Web+Developer;Always+Learning+New+Things" />
+</p>
+
 
 ## 📚 Currently Learning
 - Advanced Java
