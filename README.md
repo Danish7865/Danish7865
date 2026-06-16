@@ -62,10 +62,6 @@ Java Developer | DSA Enthusiast | Full Stack Learner | Open Source Contributor
 - Data Structures & Algorithms
 - Node.js
 - Cybersecurity
-
-## 📫 Connect With Me
-- GitHub: https://github.com/Danish7865
-
 ---
 ⭐ Thanks for visiting my profile!
 
