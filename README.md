@@ -30,8 +30,6 @@ Java Developer | DSA Enthusiast | Full Stack Learner | Open Source Contributor
 
 - GitHub: https://github.com/Danish7865
 
-![](https://komarev.com/ghpvc/?username=Danish7865&color=blue)
-
 ## 📬 Connect With Me
 
 <p align="left">
@@ -47,12 +45,6 @@ Java Developer | DSA Enthusiast | Full Stack Learner | Open Source Contributor
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Danish7865&show_icons=true&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=Danish7865&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
