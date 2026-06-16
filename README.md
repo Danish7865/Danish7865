@@ -1,6 +1,12 @@
 <p align="center">
   <img src="banner.png" alt="GitHub Banner" width="100%">
 </p>
+<h3 align="center">
+Java Developer | DSA Enthusiast | Full Stack Learner | Open Source Contributor
+</h3>
+<p align="center">
+🚀 Building Projects • 📚 Learning Everyday • 💻 Looking for SDE Opportunities
+</p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Danish7865&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
@@ -48,19 +54,11 @@
 
 ![](https://streak-stats.demolab.com?user=Danish7865&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danish7865&layout=compact&theme=tokyonight)
-
 ## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Danish7865&theme=tokyonight&hide_border=true" />
 </p>
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Danish7865&theme=algolia&no-frame=true&margin-w=10" />
-</p>
-
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Java+Developer;DSA+Enthusiast;Web+Developer;Always+Learning+New+Things" />
